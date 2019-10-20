@@ -1,5 +1,7 @@
 # SANDBOX Jest DynamoDB
 
+Let's test Amazon DynamoDB locally.
+
 see `src/index.test.ts`.
 
 ```shell
