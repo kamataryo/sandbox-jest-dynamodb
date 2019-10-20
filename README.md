@@ -1,5 +1,7 @@
 # SANDBOX Jest DynamoDB
 
+[![CircleCI](https://circleci.com/gh/kamataryo/sandbox-jest-dynamodb/tree/master.svg?style=svg)](https://circleci.com/gh/kamataryo/sandbox-jest-dynamodb/tree/master)
+
 Let's test Amazon DynamoDB locally.
 
 see `src/index.test.ts`.
