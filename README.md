@@ -4,6 +4,12 @@
 
 Let's test Amazon DynamoDB locally.
 
+## prerequisite
+
+- Java
+
+## run
+
 see `src/index.test.ts`.
 
 ```shell
