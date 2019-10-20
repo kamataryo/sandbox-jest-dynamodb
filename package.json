@@ -1,0 +1,22 @@
+{
+  "name": "sandbox-jest-dynamodb",
+  "version": "0.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "aws-sdk": "^2.549.0"
+  },
+  "scripts": {
+    "test": "jest --cache"
+  },
+  "devDependencies": {
+    "@shelf/jest-dynamodb": "^1.4.1",
+    "@types/jest": "^24.0.18",
+    "jest": "^24.9.0",
+    "ts-jest": "^24.1.0",
+    "typescript": "^3.6.3"
+  },
+  "peerDependencies": {
+    "aws-sdk": "^2"
+  }
+}
